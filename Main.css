@@ -1,0 +1,270 @@
+body {
+    margin: 0;
+    background-image: url(Shield%20.jpg);
+    height:25%;
+    
+}
+
+#body:hover {
+   background-color: rgba(0, 0, 0, 0.2)
+       
+}
+
+#homebutton {
+   width:50px;
+   height:50px;
+   margin-top: 16px;
+   margin-left: 20px;
+    
+}
+
+
+
+/* achtergrond enzo*/
+#header {
+    position: relative;
+    width: 2700px; 
+    height: 800px;
+    background-size: 50% 50%;
+    background-color: #8A0829;
+    box-shadow: 10px 10px 5px #1C1C1C;
+}
+#balk {
+    height:100px;
+    background-color: #610B21;
+    box-shadow: 10px 10px 5px #1C1C1C;
+}
+
+#balk:hover {
+    background-color: rgba(0, 0, 0, 0.2)
+    
+}
+#nav {
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    background-color: #151515;
+}
+
+
+/*text van Jorrit's website*/
+#logo_text {
+    position: absolute;
+    display: inline;
+    top: -5px;
+    left: 12px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: azure;
+    font-weight: bold;
+    
+}
+/*introductie knop*/
+#host_link {
+    display: inline;
+    position: absolute
+    right: 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: azure;
+    float: right;
+    margin-bottom: 10px;
+     padding: 20px 40px 20px 40px;
+    background-color: rgba(255, 255, 255,0.0 );
+}
+/*visited versie*/
+#host_link:visited {
+    text-decoration: none;
+    color:azure;
+    font-family: sans-serif;
+   
+}
+
+#host_link:hover {
+    background-color: #8E0000;
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+/*knoppen in header*/
+.nav_links {    
+    display: inline;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px 10px 30px;
+    background-color: rgba(255, 255, 255, 0.5 );
+    float: right;
+    margin: 12px; 
+   
+}
+
+.nav_links:hover {
+    background-color: red;
+}
+
+#x11 {
+    display: inline;
+    font-family: sans-serif;
+    float: right;
+    margin: 12px; 
+}
+
+#x11:hover {
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+    
+/*welcome text*/
+#welcome_text_div {
+    position: absolute;
+    width: 800px;
+    top: 50%;
+    margin-top: -150px;
+    left: 50%;
+    margin-left: -400px;
+    height: 300px;
+}
+
+#logo_voorkant {
+    position: absolute;
+    margin: 200px;
+    margin-top: 0px;
+}
+
+#welcome_text {
+    color: aliceblue;
+    font-family: sans-serif; 
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+
+#uitleg {
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -40px;
+}
+
+#comics {
+    width:250px;
+    height:250px;
+    text-decoration: none;
+    position: absolute;
+    left: 50%;
+    margin-left:-120px;
+    margin-top: 240px;
+}
+
+#comics:visited {
+   
+}
+
+#comics:hover {
+ transform: scale(1.3);
+}
+
+
+#onderwerp_info {
+    position: relative;
+    width: 800px;
+    height: 500px;
+    background-color: #151515;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+    border: 5px solid white;
+    
+}
+
+#onderwerp_foto {
+    position:absolute;
+    width: 470px;
+    height: 100px;
+    background-color: #151515;
+}
+
+#onderwerp_text {
+    position: absolute;
+    width: 330px;
+    height: 100%;
+    right: 0; 
+    background-size:cover;
+    
+   
+    
+}
+
+#text_onderwerp_info {
+    color: aliceblue;
+    margin: 15px;
+    font-family: sans-serif;
+    
+}
+
+#h1_tag {
+    position:relative;
+    color: white;
+    font-family:sans-serif;
+    left:100px;
+    
+}
+
+#contact_plaats {
+    display: inline;
+    float: right;
+    margin: 12px; 
+   
+    
+}
+#contact_plaats:hover {
+ transform: scale(1.3);
+}
+
+
+#hold {
+    border: 5px;
+    background-color: B01F00;
+    height:80px;
+}
+
+#reclame {
+    width: 2700px; 
+    height: 100px;
+    background-color:#262626;
+}
+
+.images {
+    margin-left: 450px;
+    margin-top: 20px;
+
+}
+
+.images:hover {
+    transform: scale(2);
+    opacity: 0.3;
+    
+}
+#tijdsbeeld_img {
+    background-color: transparent;
+    
+}
+#tijdsbeeld_img:hover {
+    transform: scale(1.3);
+}
+
+#pinterest:hover {
+    transform: scale(1.4);
+       
+}
+#pinterest_id {
+    
+}
+.navigatie {
+    
+}
